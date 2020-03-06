@@ -1,4 +1,4 @@
-# bottle-neck
+# @smedini/bottleneck
 nano-lib to limit jobs execution.
 
     //job will every 100ms minimum.
